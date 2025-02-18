@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon SQL bug related to unexpected results from queries when dealing with tables without primary keys or containing duplicate rows. The `bug.sql` file shows the faulty query, while `bugSolution.sql` presents the corrected version.  The issue highlights the importance of primary keys and proper data integrity in SQL databases.
